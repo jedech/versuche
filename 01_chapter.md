@@ -1,4 +1,5 @@
-# This is an example chapter.
+# Dies ist das erste Kapitel meines Versuchs
 
-This is how a chapter looks.
-Now go ahead and create your own chapters!
+Normaler Text sieht so aus.
+
+
